@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mmcentire\\Documents\\GitRepos\\IVRService\\IVRService\\IVRService.Tests\\IVRService.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mmcentire\\Documents\\GitRepos\\IVRService\\IVRService\\IVRService.Tests\\IVRService.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mmcentire\\Documents\\GitRepos\\IVRService\\IVRService\\IVRService.Tests\\IVRService.Tests.csproj",
+        "projectName": "IVRService.Tests",
+        "projectPath": "C:\\Users\\mmcentire\\Documents\\GitRepos\\IVRService\\IVRService\\IVRService.Tests\\IVRService.Tests.csproj",
+        "packagesPath": "C:\\Users\\mmcentire\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mmcentire\\Documents\\GitRepos\\IVRService\\IVRService\\IVRService.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mmcentire\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\mmcentire\\Documents\\GitRepos\\IVRService\\IVRService\\IVRService\\IVRService.csproj": {
+                "projectPath": "C:\\Users\\mmcentire\\Documents\\GitRepos\\IVRService\\IVRService\\IVRService\\IVRService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\mmcentire\\Documents\\GitRepos\\IVRService\\IVRService\\IVRService\\IVRService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mmcentire\\Documents\\GitRepos\\IVRService\\IVRService\\IVRService\\IVRService.csproj",
+        "projectName": "IVRService",
+        "projectPath": "C:\\Users\\mmcentire\\Documents\\GitRepos\\IVRService\\IVRService\\IVRService\\IVRService.csproj",
+        "packagesPath": "C:\\Users\\mmcentire\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mmcentire\\Documents\\GitRepos\\IVRService\\IVRService\\IVRService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mmcentire\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.6.9, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

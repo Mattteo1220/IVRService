@@ -1,0 +1,12 @@
+C:\Users\mmcentire\Documents\GitRepos\IVRService\IVRService\IVRService\bin\Debug\netstandard2.0\IVRService.deps.json
+C:\Users\mmcentire\Documents\GitRepos\IVRService\IVRService\IVRService\bin\Debug\netstandard2.0\IVRService.dll
+C:\Users\mmcentire\Documents\GitRepos\IVRService\IVRService\IVRService\bin\Debug\netstandard2.0\IVRService.pdb
+C:\Users\mmcentire\Documents\GitRepos\IVRService\IVRService\IVRService\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\mmcentire\Documents\GitRepos\IVRService\IVRService\IVRService\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+C:\Users\mmcentire\Documents\GitRepos\IVRService\IVRService\IVRService\obj\Debug\netstandard2.0\IVRService.csproj.CoreCompileInputs.cache
+C:\Users\mmcentire\Documents\GitRepos\IVRService\IVRService\IVRService\obj\Debug\netstandard2.0\IVRService.AssemblyInfoInputs.cache
+C:\Users\mmcentire\Documents\GitRepos\IVRService\IVRService\IVRService\obj\Debug\netstandard2.0\IVRService.AssemblyInfo.cs
+C:\Users\mmcentire\Documents\GitRepos\IVRService\IVRService\IVRService\obj\Debug\netstandard2.0\IVRService.csproj.CopyComplete
+C:\Users\mmcentire\Documents\GitRepos\IVRService\IVRService\IVRService\obj\Debug\netstandard2.0\IVRService.dll
+C:\Users\mmcentire\Documents\GitRepos\IVRService\IVRService\IVRService\obj\Debug\netstandard2.0\IVRService.pdb
+C:\Users\mmcentire\Documents\GitRepos\IVRService\IVRService\IVRService\obj\Debug\netstandard2.0\IVRService.csprojAssemblyReference.cache

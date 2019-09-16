@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IVRService", "IVRService\IVRService.csproj", "{CA712780-FF44-4F89-8101-CFA40403C3F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IVRService.Tests", "IVRService.Tests\IVRService.Tests.csproj", "{4CEB1DCB-311F-4630-9F19-770BE7042740}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA712780-FF44-4F89-8101-CFA40403C3F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA712780-FF44-4F89-8101-CFA40403C3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA712780-FF44-4F89-8101-CFA40403C3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA712780-FF44-4F89-8101-CFA40403C3F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CEB1DCB-311F-4630-9F19-770BE7042740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CEB1DCB-311F-4630-9F19-770BE7042740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CEB1DCB-311F-4630-9F19-770BE7042740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CEB1DCB-311F-4630-9F19-770BE7042740}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BEED4A9-B51C-4043-829A-74C4AF5F337F}
+	EndGlobalSection
+EndGlobal
